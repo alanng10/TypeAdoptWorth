@@ -20,3 +20,5 @@ Type adopt worth in PC desktop US keyboard is 3 thousand 531.
 Type adopt worth in Type Board and PC desktop mouse is 5 thousand 931.
 
 Type adopt worth in PC desktop US keyboard and mouse is 41.
+
+Type adopt worth in touchscreen added to display is 2.
