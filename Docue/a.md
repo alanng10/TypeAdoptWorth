@@ -16,7 +16,7 @@ except any type and no other tool adopt 1 button that can inn anything.
 The unit is mul with cubic of total Lang element trigg.
 The mul is not apply with trigg that is not Lang element trigg.
 
-Type adopt worth in Type Board is 1 million 741 thousand.
+Type adopt worth in Type Board is 340 thousand.
 
 Type adopt worth in PC desktop US keyboard is 3 thousand 531.
 
