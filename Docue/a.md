@@ -15,7 +15,7 @@ except any type and no other tool adopt 1 button that can inn anything.
 
 Lang element trigg cross is total share of Lang element trigg.
 
-The unit is mul with cubic of total of each Lang element trigg cross.
+The unit is mul with exponent 5 of total of each Lang element trigg cross.
 The mul is not apply with trigg that is not Lang element trigg.
 
 Type adopt worth in Type Board is 1 million 741 thousand.
