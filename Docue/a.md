@@ -7,7 +7,7 @@ Type Board is type board as defined by Alan Ng.
 Class Lang is Class Lang defined by Alan Ng.
 
 Type adopt worth is quadruple of total type abstract opacity,
-relate to 1 base adopt worth unit.
+relate to 1 base adopt unit.
 
 Type adopt worth base adopt unit is
 1 human with only enough cloth and Class Lang and Class Lang require including USB port 
