@@ -19,12 +19,12 @@ Lang element trigg cross is min at 0.
 The unit is mul with exponent 3 of total of quadratic each Lang element trigg cross.
 The mul is not apply with trigg that is not Lang element trigg.
 
-Type adopt worth in Type Board is 6 million 812 thousand.
+Type adopt worth in Type Board is 8 million 143 thousand.
 
-Type adopt worth in PC desktop US keyboard is 3 thousand 531.
+Type adopt worth in PC desktop US keyboard is 1 thousand 412.
 
-Type adopt worth in Type Board and PC desktop mouse is 5 thousand 931.
+Type adopt worth in Type Board and PC desktop mouse is 12 thousand 216.
 
-Type adopt worth in PC desktop US keyboard and mouse is 37.
+Type adopt worth in PC desktop US keyboard and mouse is 84.
 
 Type adopt worth in touch screen added to display is 2.
